@@ -1,5 +1,5 @@
 
-### Cybersecurity Professional | AI Security | SOC | Detection Engineering | Red Teaming
+### Cybersecurity Professional || AI Security || SOC || Detection Engineering || Red Teaming  || DevSecOps
 
 I am building hands-on expertise across cybersecurity, AI/LLM security, security operations, detection engineering, cloud security, web security, mobile security, red teaming and DevSecOps.
 
