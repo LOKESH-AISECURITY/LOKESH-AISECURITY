@@ -271,6 +271,118 @@ My goal is to develop deep practical knowledge in securing modern applications, 
 - DeepEval
 - InspectAI
 
+## AI Governance & Responsible AI
+
+- ISO/IEC 42001 (AI Management System)
+- NIST AI Risk Management Framework (AI RMF)
+- EU AI Act
+- OECD AI Principles
+- Responsible AI Frameworks
+- AI Governance
+- AI Compliance
+- AI Auditing
+- AI Assurance
+- AI Risk Assessments
+- AI Impact Assessments
+
+## AI Threat Modeling
+
+- STRIDE
+- PASTA
+- DREAD
+- OCTAVE
+- Trike
+- VAST
+- LINDDUN
+- MITRE ATT&CK
+- MITRE ATLAS
+- OWASP Threat Dragon
+- Security Architecture Reviews
+
+## AI Security Frameworks
+
+- OWASP Top 10 for LLM Applications
+- OWASP GenAI Security Project
+- MITRE ATLAS
+- MITRE ATT&CK
+- NIST AI RMF
+- NIST Cybersecurity Framework
+- MIT AI Risk Repository
+- OWASP ASVS
+- OWASP SAMM
+- OWASP WSTG
+
+## AI Governance, Risk & Compliance (AI GRC)
+
+- ISO 42001
+- ISO 27001
+- ISO 27002
+- NIST AI RMF
+- NIST CSF
+- NIST 800-53
+- NIST 800-61
+- NIST 800-207 (Zero Trust)
+- CIS Controls
+- SOC 2
+- GDPR
+- EU AI Act
+- FAIR
+- OCTAVE
+- COBIT
+
+## LLM Security
+
+- Prompt Injection
+- Indirect Prompt Injection
+- Jailbreak Attacks
+- Data Leakage
+- Model Theft
+- Model Extraction
+- Data Poisoning
+- Training Data Attacks
+- RAG Attacks
+- Vector Database Security
+- Agent Security
+- Tool Poisoning
+- MCP Security
+- Guardrails
+- AI Supply Chain Security
+
+## Agentic AI Security
+
+- Agent Security
+- Autonomous Agent Security
+- Multi-Agent Security
+- Agent-to-Agent Trust
+- Tool Security
+- Memory Security
+- MCP Security
+- Agent Guardrails
+- Human-in-the-Loop Security
+
+## AI Security Platforms
+
+- Garak
+- PyRIT
+- Promptfoo
+- NVIDIA NeMo Guardrails
+- LLM Guard
+- Rebuff
+- OpenAI Evals
+- DeepEval
+- InspectAI
+- PurpleLlama
+- CyberSecEval
+- Llama Guard
+- Llama Prompt Guard
+- Llama Firewall
+- CodeShield
+- AutoGen
+- CrewAI
+- Semantic Kernel
+- OpenAI Agents SDK
+- LangGraph
+
 ### AI Red Teaming
 - Garak
 - PyRIT
