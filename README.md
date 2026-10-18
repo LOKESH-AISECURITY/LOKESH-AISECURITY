@@ -14,7 +14,6 @@ AI Sentinel is my security engineering portfolio for exploring vulnerabilities, 
 ## 📌 Table of Contents
 
 - [About Me](#-about-me)
-- [AI Sentinel Project](#-ai-sentinel-project)
 - [Security Domains](#-security-domains)
 - [Security Tooling and Platforms](#-security-tooling-and-platforms)
 - [AI Security Tooling](#-ai-security-tooling)
@@ -48,52 +47,6 @@ I approach security through four complementary disciplines:
 - **Respond:** Investigate findings, preserve evidence, prioritize risk, and verify remediation.
 
 My focus is on reproducible security testing, practical evidence, clear documentation, and continuous improvement.
-
----
-
-## 🛡️ AI Sentinel Project
-
-**AI Sentinel — AI Security Red Team Lab**
-
-**Repository:** [LOKESH-AISECURITY/ai-security-red-team-lab](https://github.com/LOKESH-AISECURITY/ai-security-red-team-lab)
-
-AI Sentinel is my hands-on portfolio for researching AI security, evaluating application defenses, and documenting security assessments.
-
-### Project objectives
-
-- **LLM Security:** Assess prompt injection, jailbreak resistance, sensitive-data exposure, and unsafe model behavior.
-- **AI Red Teaming:** Run authorized adversarial tests against defined security requirements.
-- **Guardrails Security:** Evaluate input/output validation, policy enforcement, bypass resistance, and failure handling.
-- **RAG Security:** Investigate document trust, retrieval authorization, tenant isolation, and indirect prompt injection.
-- **AI Agent Security:** Assess tool permissions, unsafe actions, memory isolation, and authorization boundaries.
-- **MCP Security:** Research tool integrations, server configurations, untrusted outputs, and cross-tool trust.
-- **Detection Engineering:** Explore how AI application events can be recorded, correlated, and investigated.
-- **Evidence and Reporting:** Document test cases, expected and observed behavior, impact, mitigation, and retest results.
-
-### Current project status
-
-| Area | Status |
-|---|---|
-| Repository foundation and architecture | Established |
-| Initial Garak-based LLM assessment | Initial assessment completed |
-| RAG security module | Planned / further development |
-| AI agent security module | Planned |
-| MCP security research module | Planned |
-| Guardrails security testing | Further testing and evidence pending |
-| Detection and security automation | Roadmap |
-
-*This status describes the documented project baseline, not a claim that every planned module is implemented. Update it as work and evidence are added.*
-
-### Assessment workflow
-
-1. Define the target, authorization, test scope, and trust boundaries.
-2. Identify threats using OWASP guidance, MITRE ATLAS, and threat-modeling methods.
-3. Design controlled test cases with expected security behavior.
-4. Execute tests against approved targets.
-5. Record requests, responses, status codes, timestamps, and relevant traces.
-6. Assess impact, likelihood, and exploitability.
-7. Recommend mitigations and retest after changes.
-8. Document limitations, unresolved findings, and residual risk.
 
 ---
 
