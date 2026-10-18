@@ -1,5 +1,5 @@
 
-# AI Sentinel | Cybersecurity & AI Security Engineering
+# AI Security Engineering 360°
 
 **Cybersecurity Professional | AI Security | SOC | Detection Engineering | Red Teaming | GRC | DevSecOps**
 
